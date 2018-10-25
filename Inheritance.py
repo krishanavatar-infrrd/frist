@@ -27,3 +27,6 @@ p1=Parrot()
 
 isFly(p)
 isFly(p1)
+
+def add(x,y):
+	return x+y
